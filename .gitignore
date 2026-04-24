@@ -1,0 +1,33 @@
+# Spielstände
+saves/
+*.json
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Hintergrundbilder (Naruto IP)
+backgrounds/
+
+# Backup Dateien
+*_backup.py
+main_backup.py
+rpg_gui_backup.py
+main_before_debug_tracer.py
+
+# Saves Ordner
+autosave.json
+
+# IDE Dateien
+.vscode/
+.idea/
+*.code-workspace
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
